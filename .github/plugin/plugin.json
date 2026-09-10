@@ -1,0 +1,25 @@
+{
+  "name": "squad-copilot-plugins",
+  "description": "Squad Copilot plugins repository",
+  "version": "1.0.0",
+  "author": {
+    "name": "Fabio Almeida",
+    "email": "noreply@fabandalm.com"
+  },
+  "license": "MIT",
+  "keywords": ["copilot", "plugins", "squad"],
+  "plugins": [
+    {
+      "name": "documents",
+      "description": "Collection of document processing suite including Excel, Word, PowerPoint, and PDF capabilities",
+      "version": "1.0.0",
+      "source": "./plugins/documents"
+    }
+  ],
+  "skills": [
+    "./skills/xlsx",
+    "./skills/docx",
+    "./skills/pptx",
+    "./skills/pdf"
+  ]
+}
