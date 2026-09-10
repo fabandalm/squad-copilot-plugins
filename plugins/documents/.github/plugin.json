@@ -1,0 +1,17 @@
+{
+  "name": "documents",
+  "description": "Collection of document processing suite including Excel, Word, PowerPoint, and PDF capabilities",
+  "version": "1.0.0",
+  "author": {
+    "name": "Fabio Almeida",
+    "email": "noreply@fabandalm.com"
+  },
+  "license": "MIT",
+  "keywords": ["document", "office"],
+  "skills": [
+    "../../skills/xlsx",
+    "../../skills/docx",
+    "../../skills/pptx",
+    "../../skills/pdf"
+  ]
+}
