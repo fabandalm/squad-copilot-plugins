@@ -1,0 +1,19 @@
+{
+  "name": "squad-copilot-plugins",
+  "owner": {
+    "name": "Fabio Almeida",
+    "email": "noreply@fabandalm.com"
+  },
+  "metadata": {
+    "description": "Squad skills sample for VS Code and GitHub Copilot",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "documents",
+      "description": "Collection of document processing suite including Excel, Word, PowerPoint, and PDF capabilities",
+      "version": "1.0.0",
+      "source": "./plugins/documents"
+    }
+  ]
+}
