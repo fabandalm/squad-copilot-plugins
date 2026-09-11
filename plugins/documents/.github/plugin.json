@@ -1,17 +1,14 @@
 {
-  "name": "documents",
-  "description": "Collection of document processing suite including Excel, Word, PowerPoint, and PDF capabilities",
-  "version": "1.0.0",
+  "name": "reviews",
+  "description": "Reviews code for potential issues and improvements",
+  "version": "1.0.1",
   "author": {
     "name": "Fabio Almeida",
     "email": "noreply@fabandalm.com"
   },
   "license": "MIT",
-  "keywords": ["document", "office"],
+  "keywords": ["code-review", "review"],
   "skills": [
-    "../../skills/xlsx",
-    "../../skills/docx",
-    "../../skills/pptx",
-    "../../skills/pdf"
+    "../../skills/springboot-code-review"
   ]
 }

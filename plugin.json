@@ -1,7 +1,7 @@
 {
   "name": "squad-copilot-plugins",
   "description": "Squad Copilot plugins repository",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Fabio Almeida",
     "email": "noreply@fabandalm.com"
@@ -10,17 +10,13 @@
   "keywords": ["copilot", "plugins", "squad"],
   "plugins": [
     {
-      "name": "documents",
-      "description": "Collection of document processing suite including Excel, Word, PowerPoint, and PDF capabilities",
-      "version": "1.0.0",
-      "source": "./plugins/documents"
+      "name": "reviews",
+      "description": "Reviews code for potential issues and improvements",
+      "version": "1.0.1",
+      "source": "./plugins/reviews"
     }
   ],
   "skills": [
-    "./skills/xlsx",
-    "./skills/docx",
-    "./skills/pptx",
-    "./skills/pdf",
     "./skills/springboot-code-review"
   ]
 }

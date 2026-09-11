@@ -6,14 +6,14 @@
   },
   "metadata": {
     "description": "Squad skills sample for VS Code and GitHub Copilot",
-    "version": "1.0.0"
+    "version": "1.0.1"
   },
   "plugins": [
     {
-      "name": "documents",
-      "description": "Collection of document processing suite including Excel, Word, PowerPoint, and PDF capabilities",
-      "version": "1.0.0",
-      "source": "./plugins/documents"
+      "name": "reviews",
+      "description": "Reviews code for potential issues and improvements",
+      "version": "1.0.1",
+      "source": "./plugins/reviews"
     }
   ]
 }
