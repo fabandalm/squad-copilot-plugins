@@ -17,9 +17,6 @@
     }
   ],
   "skills": [
-    "./skills/xlsx",
-    "./skills/docx",
-    "./skills/pptx",
-    "./skills/pdf"
+    "./skills/springboot-code-review"
   ]
 }
