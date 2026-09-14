@@ -1,0 +1,14 @@
+{
+  "name": "reviews-nodejs",
+  "description": "Reviews Node.js/TypeScript code for potential issues and improvements",
+  "version": "1.0.0",
+  "author": {
+    "name": "Fabio Almeida",
+    "email": "noreply@fabandalm.com"
+  },
+  "license": "MIT",
+  "keywords": ["code-review", "review", "nodejs", "javascript", "typescript"],
+  "skills": [
+    "../../skills/nodejs-code-review"
+  ]
+}

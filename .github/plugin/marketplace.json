@@ -10,10 +10,22 @@
   },
   "plugins": [
     {
-      "name": "reviews",
-      "description": "Reviews code for potential issues and improvements",
+      "name": "reviews-java",
+      "description": "Reviews Java Spring Boot code for potential issues and improvements",
       "version": "1.0.1",
       "source": "./plugins/reviews"
+    },
+    {
+      "name": "reviews-nodejs",
+      "description": "Reviews Node.js/TypeScript code for potential issues and improvements",
+      "version": "1.0.0",
+      "source": "./plugins/reviews-nodejs"
+    },
+    {
+      "name": "reviews-python",
+      "description": "Reviews Python code for potential issues and improvements",
+      "version": "1.0.0",
+      "source": "./plugins/reviews-python"
     }
   ]
 }
